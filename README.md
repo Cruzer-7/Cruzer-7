@@ -1,6 +1,6 @@
 # Hi there, I'm Thabang Cruzer7! 👋
 
-Full-Stack Developer | Kotlin Multiplatform Specialist | Mobile & Cloud Engineer
+Full-Stack Developer | DevOps Specialist | Mobile & Cloud Engineer
 
 Welcome to my GitHub! I'm a passionate software developer dedicated to building scalable, cross-platform applications with modern technology stacks. I specialize in full-stack development, cloud architecture, and creating intuitive user experiences across mobile and web platforms.
 
@@ -108,7 +108,7 @@ I have a proven track record of designing and implementing multi-platform applic
 
 ## 📚 Currently Learning & Exploring
 
-- 🔹 Advanced Kotlin Multiplatform patterns and best practices
+- 🔹 Kotlin Multiplatform patterns and best practices
 - 🔹 Microservices architecture and distributed systems design
 - 🔹 Cloud-native development and containerization strategies
 - 🔹 Advanced database optimization and scaling techniques
@@ -137,13 +137,13 @@ I'm always interested in:
 **Get In Touch:**
 - **Email:** [thabang7km@gmail.com](mailto:thabang7km@gmail.com)
 - **LinkedIn:** [Thabang Kgaladi](https://www.linkedin.com/in/thabang-kgaladi)
-- **Portfolio:** [Your Website](https://yourwebsite.com)
+- **Portfolio:** Coming Soon
 
 ---
 
 ## 💡 Open to Opportunities
 
-🎯 **Ideal Roles:** Full-Stack Developer | Kotlin Multiplatform Engineer | Backend Developer | DevOps Engineer
+🎯 **Ideal Roles:** Full-Stack Developer | Kotlin Multiplatform Engineer | Backend Developer | DevOps Specialist
 
 🌟 **Looking for:** Teams building scalable, user-centric applications with modern tech stacks and a focus on code quality.
 
